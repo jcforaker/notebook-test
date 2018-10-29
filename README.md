@@ -1,6 +1,6 @@
 # Testing environment with environment.yml
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jcforaker/notebook-test.git/master)
+[![Binder](http://mybinder.org/badge.svg)](https://github.com/jcforaker/notebook-test)
 
 A Binder-compatible repo with an `environment.yml` file.
 
