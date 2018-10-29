@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder at the following URL:
 
-https://mybinder.org/v2/gh/jcforaker/notebook-test.git/master
+https://mybinder.org/v2/gh/jcforaker/notebook-test/master
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
