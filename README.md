@@ -1,4 +1,4 @@
-# Conda environment with environment.yml
+# Testing environment with environment.yml
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jcforaker/notebook-test.git/master)
 
