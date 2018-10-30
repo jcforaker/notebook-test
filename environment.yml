@@ -5,5 +5,3 @@ dependencies:
   - python
   - pyomo
   - numpy
-  - matplotlib
-  - pandas
