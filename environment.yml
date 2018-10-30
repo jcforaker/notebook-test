@@ -5,6 +5,5 @@ dependencies:
   - python
   - pyomo
   - numpy
-  - xlwings
   - matplotlib
   - pandas
